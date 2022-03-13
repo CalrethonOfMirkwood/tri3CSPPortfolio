@@ -40,7 +40,7 @@ No, it is the opposite of digital empowerment, but sometimes empowerment comes b
   - Are modern computers any different?  There's never been *major* major cyberwarfare but I think one is inevitable.
 - More of a tool than something inherently good or evil
 - But are tools good or evil?
-<img src="https://github.com/CalrethonOfMirkwood/tri3CSPPortfolio/blob/master/media/ted.jpg" width=100>
+<img src="/assets/ted.jpg" width=50>
 
 ### Action
 1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
