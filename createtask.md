@@ -5,4 +5,4 @@ I made the card game war for my CB create task.  In this it is in the [`/createt
 
 It uses pygame and as such cannot run on the replit.  However, below is a runtime video.  It describes in depth how the create task functions
 
- <iframe src="/media/war.mp4"></iframe> 
+ <iframe src="https://github.com/CalrethonOfMirkwood/tri3CSPPortfolio/blob/master/media/war.mp4"></iframe> 
