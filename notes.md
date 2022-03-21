@@ -1,6 +1,6 @@
 {% include navbar.html %}
 
-## 5.2
+# 5.2
 - The digital divide, the technology access gap
 - Technology is not accessible to everyone, exaggerated by digitization during lockdowns
 - DNHS gives personal computers to students, even home wifi.  Has several computer labs and public computers scattered around the school.
@@ -27,7 +27,7 @@ The school already provides plenty of resources to access technology such as int
 No, it is the opposite of digital empowerment, but sometimes empowerment comes behind safety especially if the person in question is a child.  There are barriers within the school's digital access, as described above, but they are only in the school and can largely be worked around.  Unfortunately, some countries have entire sites blocked by the government and are not digitally empowered.
 
 
-## 5.1
+# 5.1
 - Technology can be both helpful and harmful depending on how it is used
   - Can technology made to be harmful?
     - Yes, obviously.  Think about sheer number of malware out there.
@@ -40,7 +40,7 @@ No, it is the opposite of digital empowerment, but sometimes empowerment comes b
   - Are modern computers any different?  There's never been *major* major cyberwarfare but I think one is inevitable.
 - More of a tool than something inherently good or evil
 - But are tools good or evil?
-<img src="images/ted.jpg" width=100>
+<img src="/tri3CSPPortfolio/assets/ted.jpg" width=50>
 
 ### Action
 1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
