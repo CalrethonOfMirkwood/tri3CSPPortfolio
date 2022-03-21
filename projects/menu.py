@@ -1,5 +1,6 @@
 import time
-from projects.week0.loading import loading
+from week0.loading import loading
+from week1.week1 import week1
 
 amogus = [ [1,2,3],[4,5,6],[7,8,9] ]
 
@@ -7,7 +8,8 @@ def printMenu():
     print('1 -- *ring ring ring*' )
     print('2 -- Christmas Tree' )
     print('3 -- Loading Bar' )
-    print('4 -- Exit' )
+    print('4 -- Week 1' )
+    print('5 -- Exit')
 
 def bananaphone():
     print('*phone noises*')
@@ -49,6 +51,8 @@ def runoptions():
             elif option == 3:
                 megaman()
             elif option == 4:
+                week1()
+            elif option == 5:
                 print('Exiting! Thank you! Good Bye...')
                 exit()
             else:

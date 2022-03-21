@@ -1,23 +1,5 @@
 {% include navbar.html %}
-# 5.4
-- Crowdsourcing making something that the general public can contribute to.  Examples are:
-  - cryptocurrency, the transactions are verified by public in a process known as mining
-  - wikipedia, an online crowdsourced encyclopedia
-  - COVID data is often crowdsourced
-- Crowdsourcing is also very common in large statistics efforts or citizen science (citizen science itself is literally crowdsourcing)
-- Crowdsourced data is often accessible through APIs
-- Anything that someone can contribute to, regardless of scale, is arguably crowdsourced
-
-### Action
-1 CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
-
-I'm curious about the students in the school's thoughts on a club that I am trying to start, the Antilife Antichoice Club
-
-2 What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
-
-I don't think crowdsourcing within Del Norte could have a significant impact on my project.  Our website is very personal and sensitive in nature, so we would be reluctant to have outsiders work on it.  Nobody in GSA seems to know much about computer science, I don't know of anyone else both trustable and competent at the school to work on the project.
-
-# 5.3
+# 5.5 - Licensing
 - I know at least one person is going to go through my github someday and find this, I am genuinely sorry that you have had to see all of this.  All things go to cringe someday but please do not doxx me.
 - Software can be under either proprietary or open-source licenses
   - Proprietary software is generally licensed so that the creators can patent or otherwise make a profit off of their software
@@ -35,6 +17,37 @@ I've already licensed this repository under the [GNU GPLv3](/tri3CSPPortfolio/LI
 2. Make a license for your personal and Team project. Document license you picked and why.
 
 Already done, GNU GPLv3 for both.  I don't really see a reason to leave my tried and trusted GNU GPLv3.
+
+
+# 5.4 - Crowdsourcing
+- Crowdsourcing making something that the general public can contribute to.  Examples are:
+  - cryptocurrency, the transactions are verified by public in a process known as mining
+  - wikipedia, an online crowdsourced encyclopedia
+  - COVID data is often crowdsourced
+- Crowdsourcing is also very common in large statistics efforts or citizen science (citizen science itself is literally crowdsourcing)
+- Crowdsourced data is often accessible through APIs
+- Anything that someone can contribute to, regardless of scale, is arguably crowdsourced
+
+### Action
+1 CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
+
+I'm curious about the students in the school's thoughts on a club that I am trying to start, the Antilife Antichoice Club
+
+2 What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
+
+I don't think crowdsourcing within Del Norte could have a significant impact on my project.  Our website is very personal and sensitive in nature, so we would be reluctant to have outsiders work on it.  Nobody in GSA seems to know much about computer science, I don't know of anyone else both trustable and competent at the school to work on the project.
+
+
+# 5.3 - Computing Bias
+- Creation has the biases of its creator
+  - AI or other things that are made by one group but intended for everyone
+- Algorithms may be made to intentionally promote some information but suppress others
+  - Social media, dating apps
+- Really what is bias?
+
+### Action
+(I did the breakout group)
+
 
 # 5.2 - The Digital Divide
 - The digital divide, the technology access gap
