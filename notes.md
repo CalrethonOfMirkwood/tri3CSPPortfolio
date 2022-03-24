@@ -1,5 +1,41 @@
 {% include navbar.html %}
+# 5.6 - Safe Computing
+- "Dad [t]ock on safe computing" - John Mortensen, March 22, 2022
+- Personally identifiable information (PII)
+- My fears of being doxxed!! How absolutely PROPHETIC!!!
+- I have multi-factor authentication
+- Somebody asks for your credit card number!?!! Just say NO!!!
+- My computer computes very safely.  It is a safe computer.  It is a computer safer.
+
+### Actions
+1 Describe PII you have seen on project in CompSci Principles.
+
+Emails, names, faces.
+
+2 What are your feelings about PII and your exposure?
+
+I am very worried that someone may find old stuff online about me and I'm afraid that things I put online may be taken the wrong way.
+
+3 Describe good and bad passwords? What is another step that is used to assist in authentication.
+
+Good passwords are difficult to guess and are long so that they can't be bruteforced.  Bad passwords are common and guessable, the easier it is for a hacker to guess the password the worse of a password it is.
+
+4 Try to describe Symmetric and Asymmetric encryption.
+
+Symmetric encryption is using the same key to encrypt and decrypt something while asymmetric encryption uses both public and private keys to asymmetrically encrypt and decrypt.
+
+5 Provide and example of encryption we used in deployment.
+
+The AWS images had keys required to SSH into them.
+
+6 Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+
+I've never been phished so I wouldn't know, but I've had a friend have their account in a certain MMO hacked.  Unfortunately this account was linked to their parent's credit card and the hacker purchased several expensive subscriptions on the account, costing the family a few thousand dollars.  The hacker didn't benefit from this at all...
+
+
 # 5.5 - Licensing
+- capitalism vs.... communism?!!?!?/!!1?!1!?1?!!
+  - Mort's words not mine
 - I know at least one person is going to go through my github someday and find this, I am genuinely sorry that you have had to see all of this.  All things go to cringe someday but please do not doxx me.
 - Software can be under either proprietary or open-source licenses
   - Proprietary software is generally licensed so that the creators can patent or otherwise make a profit off of their software
