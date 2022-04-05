@@ -4,10 +4,14 @@ import week2.palindrome
 import week2.calculator
 import week2.factorial
 
+# menu for entire project
 def menu():
     while True:
         try:
             week = int(input('Enter your week (0-2): '))
+
+    ################ week 0 ###################
+
             if week == 0:
                 week0.week0.printMenu()
                 option = int(input('Enter your option: '))
@@ -26,6 +30,9 @@ def menu():
                     exit()
                 else:
                     print('Invalid option. Please enter a number between 1 and 4.')
+
+    ################ week 1 ###################
+
             elif week == 1:
                 week1.week1.printMenu()
                 option = int(input('Enter your option: '))
@@ -38,6 +45,9 @@ def menu():
                     exit()
                 else:
                     print('Invalid option. Please enter a number between 1 and 3.')
+
+    ################ week 2 ###################
+
             elif week == 2:
                 print('1 -- Calculator')
                 print('2 -- Factorial')
@@ -54,6 +64,9 @@ def menu():
                     print('Exiting! Thank you! Good Bye...')
                 else:
                     print('Invalid option. Please enter a number between 1 and 3.')
+
+    ################ error handler ###################
+
             else:
                 print('Invalid option. Please enter a number between 0 and 2.')
         except ValueError:

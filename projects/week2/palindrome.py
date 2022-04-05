@@ -1,3 +1,5 @@
+# week 2 palindrome
+
 class palindrome:
     string = ""
     def __init__(self, s):
@@ -8,11 +10,11 @@ class palindrome:
                 return False
         return True
 
+# function called by menu.py
 def palindromefunction():
     string = str(input("Input string to test if palindrome: "))
     stringChecker = palindrome(string)
     result = stringChecker.ispalindrome()
-
     if (result):
         print("%s is a palindrome"%(string))
     else:

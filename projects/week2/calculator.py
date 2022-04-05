@@ -9,12 +9,16 @@ class calculator:
     def __init__(self, inputa, inputb):
         self.a = inputa
         self.b = inputb
+    # addition function
     def add(self):
         return self.a+self.b
+    # subtraction function
     def subtract(self):
         return self.a-self.b
+    # multiplication function
     def multiply(self):
         return self.a*self.b
+    # division function
     def divide(self):
         if(self.b==0):
             print("Cannot divide by 0. Returning 0")
@@ -23,8 +27,10 @@ class calculator:
     def squareroot(self):
         return math.sqrt(self.a)
 
+# function called by menu
 def calcfunction():
     for i in range(5):
+        # chooses random integer to use in function
         a = random.randint(0, 100)
         b = random.randint(0, 10)
         calc = calculator(a,b)

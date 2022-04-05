@@ -1,3 +1,5 @@
+# week 2 factorial
+
 class factorial:
     num = 1
     def __init__(self, n):
@@ -8,7 +10,9 @@ class factorial:
             factorial = factorial * i
         return factorial
 
+# function called by menu.py
 def factorialfunction():
+    # gives factorial from 1 to 12 by default as example
     for i in range(1,13):
         fact = factorial(i)
         result = fact.calculate()

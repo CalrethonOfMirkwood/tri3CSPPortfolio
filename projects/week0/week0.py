@@ -1,8 +1,10 @@
 import time
 import os
 
+# for function bananaphone()
 amogus = [ [1,2,3],[4,5,6],[7,8,9] ]
 
+# prints menu for week0
 def printMenu():
     print('1 -- *ring ring ring*')
     print('2 -- Christmas Tree')
@@ -11,6 +13,7 @@ def printMenu():
 
 def bananaphone():
     print('*phone noises*')
+    # i
     for sus in amogus:
         for baka in sus:
             print(baka, end =" ")
@@ -30,6 +33,7 @@ def waragainstchristmas():
     print((' '*28+'sus\n')*2)
     print("... together!")
 
+# for loading() below
 textpic = ["",
            "  ⣞⢽⢪⢣⢣⢣⢫⡺⡵⣝⡮⣗⢷⢽⢽⢽⣮⡷⡽⣜⣜⢮⢺⣜⢷⢽⢝⡽⣝ ",
            " ⠸⡸⠜⠕⠕⠁⢁⢇⢏⢽⢺⣪⡳⡝⣎⣏⢯⢞⡿⣟⣷⣳⢯⡷⣽⢽⢯⣳⣫⠇ ",
