@@ -101,7 +101,14 @@ def fibonacci(num):
         num2 = str(num)
         return ("An error occurred, please input a positive integer. " + num2 + " is not a valid input.")
 
-def week1():
+# menu for week 1
+def printMenu():
+    print('1 -- Loops')
+    print('2 -- Fibonacci')
+    print('3 -- Exit')
+
+# called by menu, runs the loops in hack 2
+def week1loops():
     print("hack2 loops:")
     print("------------------For loop------------------")
     for_loop()
@@ -110,12 +117,16 @@ def week1():
     print("------------------Recursive loop------------------")
     recursive_loop(0)  # requires initial index to start recursion
     print()
+
+# called by menu, runs the fibonacci sequence
+def week1fibonacci():
     print("hack3 recursive fibonacci sequence:")
+    # prints fibonacci numbers for 1 to 10
     for x in range(11):
         print("fibonacci value for %d: %d" % (x, fibonacci(x)))
     print("------------------Error handling demonstration------------------")
     print("fibonacci value for -1: " + str(fibonacci(-1)))
     print("fibonacci value for 2.72: " + str(fibonacci(2.72)))
     print("fibonacci value for -5.23: " + str(fibonacci(-5.23)))
-
-week1()
+    brap = int(input('Input natural number:'))
+    print("fibonacci value for " + str(brap) + ": " + str(fibonacci(brap)))
