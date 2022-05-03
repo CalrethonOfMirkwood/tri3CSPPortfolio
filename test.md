@@ -50,3 +50,22 @@ What's the correct answer, D (A public interest group alerts people to a scam th
 Q19 : In the following procedure, assume that the parameter x is an integer.  Which of the following best describes the behavior of the procedure?
 <img src="/tri3CSPPortfolio/assets/mystery.png">
 What's the correct answer, D (It displays true if x is negative and displays nothing otherwise) or C (It displays true if x is negative and displays nothing otherwise).  It displays true if x is negative and displays nothing otherwise.  Wow, I am so good at plugging in numbers.
+
+## Test 3, 47/50
+
+Q06 : Which of the following algorithms display all integers between 1 and 20, inclusive, that are not divisible by 3 ?
+The answer should be A and D instead of A and C.  C won't display 20 while D will.
+
+Q31 : A student is creating an algorithm to display the distance between the numbers num1 and num2 on a number line.  The following table shows the distance for several different values.  Which of the following algorithms displays the correct distance for all possible values of num1 and num2?
+
+| Value of num1 | Value of num2 | Distance Between num1 and num2 |
+| -- | -- | -- |
+| 5 | 2 | 3 |
+| 1 | 8 | 7 |
+| -3 | 4 | 7 |
+
+B, not D, is the correct answer because the difference between two numbers is the absolute value of subtracting one from the other, not subtracting the absolute values.
+
+Q34 : For which of the following situations would it be best to use a heuristic in order to find a solution that runs in a reasonable amount of time?
+
+Heuristic means that the dumb solution would take too much time, not the other way around.  Therefore the answer should be B instead of A.
