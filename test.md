@@ -1,3 +1,5 @@
+{% include navbar.html %}
+
 # Practice MCQ Test Corrections
 
 ## Test 1, 45/50

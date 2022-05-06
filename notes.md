@@ -1,4 +1,5 @@
 {% include navbar.html %}
+
 # 5.6 - Safe Computing
 - "Dad [t]ock on safe computing" - John Mortensen, March 22, 2022
 - Personally identifiable information (PII)

@@ -6,6 +6,7 @@ This is Sophie Park's AP CSP trimester 3 portfolio page.  See the above navbar f
 
 
 # AP Study Plan
+
 | Day |	Plan |
 | -- | -- |
 | Mon | Watch college board review video. |
